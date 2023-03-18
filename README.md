@@ -1,9 +1,10 @@
 # didactic-octo-goggles-because-hard
+this is a repository where javascript games are made because I suck at javascript
+# projects
+- create javascript game
+- create impossible javascript game
 
-in  didactic-octo-goggles-because-hard we,
-- write random code
-- write that we write random code so that no one gets interested
-
-# Thank you! we hope you are not interested
-
-but we do write random code and probably combine it once in a while :)
+# The games 
+the games would (by would, i mean it) be available on
+- github pages
+- realeases down there
