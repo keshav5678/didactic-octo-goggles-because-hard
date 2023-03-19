@@ -1,0 +1,23 @@
+body {
+	font-family: Arial; 
+    background: #99D9EA;
+	text-align: center;
+	padding: 20px;
+	margin: 0;
+	position: relative;
+	min-height: 100vh;
+}
+hr {width: 15em;}
+.cookie {
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+	position: sticky;
+    transition: 0.75s;
+}
+.cookie:hover {
+	font-size: 4em;
+	transition: 0.75s;
+}
+	
