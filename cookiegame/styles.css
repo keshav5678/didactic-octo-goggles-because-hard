@@ -1,23 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body {
 	font-family: Arial; 
-    background: #99D9EA;
+      background: #99D9EA;
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
 	margin: 0;
 	position: relative;
 	min-height: 100vh;
+	font-family: 'Indie Flower', cursive;
 }
 hr {width: 15em;}
 .cookie {
 	-webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
 	position: sticky;
-    transition: 0.75s;
+	ransition: 0.75s;
 }
 .cookie:hover {
-	font-size: 4em;
+	font-size: 3.5;
 	transition: 0.75s;
 }
+
+button {
+      -webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background: blue;
+	color: white;
+	border: 0;
+	padding: 14px;
+	border-radius: 7px;
+}
+h1 {font-size: 1.5em;}
+h2 {font-size: 1.2em;}
+p {font-size: 0.8em;}
 	
