@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body {
 	font-family: Arial; 
-      background: #99D9EA;
+        background: #99D9EA;
 	text-align: center;
 	padding: 10px;
 	margin: 0;
@@ -24,7 +24,7 @@ hr {width: 15em;}
 }
 
 button {
-      -webkit-appearance: none;
+        -webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
 	background: blue;
