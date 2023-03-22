@@ -6,7 +6,7 @@ this is a repository where javascript games are made because Im bad at javascrip
 
 # The games 
 the games would (by would, i mean it) be available on
-- github pages
+- github pages - **Cookie Game**
 - realeases down there
 
 
