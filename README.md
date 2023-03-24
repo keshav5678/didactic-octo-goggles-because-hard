@@ -1,12 +1,12 @@
 # didactic-octo-goggles-because-hard
 this is a repository where javascript games are made because Im bad at javascript
 # projects
-- create javascript game
+- create javascript game - **Cookie Game**
 - create impossible javascript game
 
 # The games 
 the games would (by would, i mean it) be available on
-- github pages - **Cookie Game**
+- github pages
 - realeases down there
 
 
